@@ -27,7 +27,7 @@
 
 ---
 
-### `$ cat about_me.sh`
+### `❯ cat about_me.sh`
 
 Analytical, motivated data enthusiast specializing in **Python, SQL, and Power BI**. Currently pursuing my MCA and building hands-on machine learning projects, with a focus on turning raw data into decisions that matter. Looking to start my career as a Data Analyst / Python Developer.
 
@@ -41,7 +41,7 @@ OPEN_TO   : Python Developer, Data Analyst roles
 
 ---
 
-### `$ ls tech_stack/`
+### `❯ ls tech_stack/`
 
 <div align="center">
 
@@ -59,7 +59,7 @@ OPEN_TO   : Python Developer, Data Analyst roles
 
 ---
 
-### `$ cat expertise.md`
+### `❯ cat expertise.md`
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -71,7 +71,7 @@ OPEN_TO   : Python Developer, Data Analyst roles
 
 ---
 
-### `$ ./run featured_projects.sh`
+### `❯ ./run featured_projects.sh`
 
 <details open>
 <summary><b>🎯 Predicting Sonar Rocks Against Mines (Machine Learning Project)</b></summary>
@@ -89,7 +89,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `$ tail -f learning_log.md`
+### `❯ tail -f learning_log.md`
 
 **Dec 2025** — 5-Day AI Agents Intensive Course with Google
 - Hands-on intensive covering the fundamentals of building and reasoning about AI agents
@@ -102,7 +102,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `$ cat achievements.md`
+### `❯ cat achievements.md`
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `$ cat education.md`
+### `❯ cat education.md`
 
 <div align="center">
 
@@ -127,7 +127,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `$ cat coding_profiles.md`
+### `❯ cat coding_profiles.md`
 
 <div align="center">
 
@@ -137,7 +137,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `$ ./github_analytics --verbose`
+### `❯ ./github_analytics --verbose`
 
 <div align="center">
 
@@ -150,7 +150,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `$ ./show_trophies --sort win_percent`
+### `❯ ./show_trophies --sort win_percent`
 
 <div align="center">
 
@@ -160,7 +160,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `$ ./plot_activity.py`
+### `❯ ./plot_activity.py`
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `$ ./summary_cards --full`
+### `❯ ./summary_cards --full`
 
 <div align="center">
 
@@ -185,18 +185,17 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `$ ./snake.sh`
+### `❯ ./snake.sh`
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/rishabh-1617/rishabh-1617/output/github-contribution-grid-snake-dark.svg)
 
-
 </div>
 
 ---
 
-### `$ cat current_focus.yaml`
+### `❯ cat current_focus.yaml`
 
 ```yaml
 learning:
@@ -215,7 +214,7 @@ open_to:
 
 <div align="center">
 
-### `$ ./connect.sh`
+### `❯ ./connect.sh`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=FFB000)](https://linkedin.com/in/rishabhprajapati1606/)
 [![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=FFB000)](mailto:rishabhyt.1617@gmail.com)
