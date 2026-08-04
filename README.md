@@ -191,7 +191,6 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ![Snake animation](https://raw.githubusercontent.com/rishabh-1617/rishabh-1617/output/github-contribution-grid-snake-dark.svg)
 
-<sub>Requires the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action set up on this repo to generate the SVG above.</sub>
 
 </div>
 
