@@ -145,8 +145,8 @@ My personal portfolio site, hosted via GitHub Pages.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishabh-1617&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=8e5cf7&icon_color=2575fc&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-1617&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=8e5cf7&text_color=c9d1d9" width="48%"/>
+<img src="https://raw.githubusercontent.com/rishabh-1617/rishabh-1617/main/generated/overview.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/rishabh-1617/rishabh-1617/main/generated/languages.svg" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-1617&theme=tokyonight&hide_border=true&background=1a1a2e&ring=8e5cf7&fire=6a11cb&currStreakLabel=2575fc" width="70%"/>
 
@@ -156,7 +156,7 @@ My personal portfolio site, hosted via GitHub Pages.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rishabh-1617&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
+<img src="https://github-profile-trophy-nu.vercel.app/?username=rishabh-1617&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
 
 </div>
 
@@ -175,8 +175,6 @@ My personal portfolio site, hosted via GitHub Pages.
 <img src="https://raw.githubusercontent.com/rishabh-1617/rishabh-1617/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
-
-> Note: the snake graph only renders once the `platane/snk` GitHub Action is set up on this profile repo — happy to walk through that setup if you want it live.
 
 ---
 
