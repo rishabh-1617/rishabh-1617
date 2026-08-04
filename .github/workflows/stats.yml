@@ -1,0 +1,17 @@
+name: GitHub Stats
+   on:
+     schedule:
+       - cron: "0 0 * * *"
+     push:
+       branches: main
+     workflow_dispatch:
+
+   jobs:
+     update-readme:
+       runs-on: ubuntu-latest
+       steps:
+         - name: Generate stats images
+           uses: jstrieb/github-stats@master
+           with:
+             username: rishabh-1617
+             access_token: ${{ secrets.ACCESS_TOKEN }}
