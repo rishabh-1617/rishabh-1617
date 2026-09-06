@@ -25,31 +25,27 @@
 
 </div>
 
----
+<br>
 
-### `❯ cat about_me.sh`
+## 👋 About Me
 
 Analytical, motivated data enthusiast specializing in **Python, SQL, and Power BI**. Currently pursuing my MCA and building hands-on machine learning projects, with a focus on turning raw data into decisions that matter. Looking to start my career as a Data Analyst / Python Developer.
 
-```bash
-ROLE      : Aspiring Data Analyst
-EXPERIENCE: Fresher (MCA student, graduating 2027)
-DOMAIN    : Data Science
-STACK     : Python, SQL, Power BI, Machine Learning, Pandas, NumPy, Matplotlib
-OPEN_TO   : Python Developer, Data Analyst roles
-```
+| | |
+|---|---|
+| **Role** | Aspiring Data Analyst |
+| **Experience** | Fresher (MCA student, graduating 2027) |
+| **Domain** | Data Science |
+| **Stack** | Python, SQL, Power BI, Machine Learning, Pandas, NumPy, Matplotlib |
+| **Open to** | Python Developer, Data Analyst roles |
 
 ---
 
-### `❯ ls tech_stack/`
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter)
-
-</div>
-
-<div align="center">
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A0E14?style=for-the-badge&color=FFB000&labelColor=0A0E14)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0A0E14?style=for-the-badge&color=FFB000&labelColor=0A0E14)
@@ -59,7 +55,7 @@ OPEN_TO   : Python Developer, Data Analyst roles
 
 ---
 
-### `❯ cat expertise.md`
+## 📊 Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -71,52 +67,29 @@ OPEN_TO   : Python Developer, Data Analyst roles
 
 ---
 
-### `❯ ./run featured_projects.sh`
+## 🎯 Featured Projects
 
-<details open>
-<summary><b>🎯 Predicting Sonar Rocks Against Mines (Machine Learning Project)</b></summary>
-<br>
+**Predicting Sonar Rocks Against Mines** *(Machine Learning Project)*
 
-Developed a predictive classifier that distinguishes between rocks and mines using sonar signal data.
+Python • Pandas • Scikit-learn
 
-| Aspect | Details |
-|---|---|
-| **Stack** | Python, Pandas, Scikit-learn |
-| **Scale** | 60 distinct sonar signal features |
-| **Impact** | Random Forest ensemble model achieved **98.76% accuracy** in final evaluation |
+Developed a predictive classifier that distinguishes between rocks and mines using sonar signal data, built on 60 distinct sonar signal features.
 
-</details>
+🔗 Result: Random Forest ensemble model achieved **98.76% accuracy** in final evaluation
 
 ---
 
-### `❯ tail -f learning_log.md`
-
-**Dec 2025** — 5-Day AI Agents Intensive Course with Google
-- Hands-on intensive covering the fundamentals of building and reasoning about AI agents
-
-**Oct 2025** — Deloitte Data Analytics Job Simulation (Forage)
-- Simulated real-world data analytics tasks in a job-simulation environment
-
-**Oct 2023** — Introduction to Artificial Intelligence (IBM, Coursera)
-- Foundational coursework in AI concepts and applications
-
----
-
-### `❯ cat achievements.md`
-
-<div align="center">
+## 🏆 Achievements
 
 | Achievement | Detail |
 |---|---|
-| 🏆 98.76% Model Accuracy | Random Forest classifier — Sonar Rocks vs Mines project |
-| 🏆 Deloitte Job Simulation | Completed Data Analytics simulation on Forage, Oct 2025 |
-| 🏆 Google AI Agents Intensive | Completed 5-day intensive course, Dec 2025 |
-
-</div>
+| 🏅 98.76% Model Accuracy | Random Forest classifier — Sonar Rocks vs Mines project |
+| 🏅 Deloitte Job Simulation | Completed Data Analytics simulation on Forage, Oct 2025 |
+| 🏅 Google AI Agents Intensive | Completed 5-day intensive course, Dec 2025 |
 
 ---
 
-### `❯ cat education.md`
+## 🎓 Education
 
 <div align="center">
 
@@ -127,7 +100,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `❯ cat coding_profiles.md`
+## 💻 Coding Profiles
 
 <div align="center">
 
@@ -137,55 +110,7 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `❯ ./github_analytics --verbose`
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rishabh-1617&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=FFB000&icon_color=FFB000&text_color=E6EDF3&ring_color=FFB000" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-1617&hide_border=true&background=0A0E14&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=7D8590" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-1617&layout=compact&hide_border=true&bg_color=0A0E14&title_color=FFB000&text_color=E6EDF3" />
-
-</div>
-
----
-
-### `❯ ./show_trophies --sort win_percent`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rishabh-1617&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-### `❯ ./plot_activity.py`
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh-1617&bg_color=0A0E14&color=FFB000&line=FFB000&point=E6EDF3&area=true&area_color=FFB000&hide_border=true)
-
-</div>
-
----
-
-### `❯ ./summary_cards --full`
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh-1617&theme=github_dark)
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabh-1617&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabh-1617&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabh-1617&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabh-1617&theme=github_dark&utcOffset=5.5" />
-
-</div>
-
----
-
-### `❯ ./snake.sh`
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -195,26 +120,20 @@ Developed a predictive classifier that distinguishes between rocks and mines usi
 
 ---
 
-### `❯ cat current_focus.yaml`
+## 📌 Current Focus
 
-```yaml
-learning:
-  - Machine Learning
-  - Python DSA
-building:
-  - Sonar Rocks vs Mines classifier (iterating on model performance)
-exploring:
-  - Advanced Power BI dashboarding
-open_to:
-  - Python Developer
-  - Data Analyst
-```
+| | |
+|---|---|
+| **Learning** | Machine Learning, Python DSA |
+| **Building** | Sonar Rocks vs Mines classifier (iterating on model performance) |
+| **Exploring** | Advanced Power BI dashboarding |
+| **Open to** | Python Developer, Data Analyst |
 
 ---
 
 <div align="center">
 
-### `❯ ./connect.sh`
+## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=FFB000)](https://linkedin.com/in/rishabhprajapati1606/)
 [![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=FFB000)](mailto:rishabhyt.1617@gmail.com)
